@@ -8,7 +8,7 @@ Zuständigkeitsbereich: **Leitungsebene**
 Aufgaben:
 
 - Meldung eines Stellenbedarfs (z.B. Stellenanzeige, Empfehlung durch Mitarbeiter, usw.)
-- [Bewerbungsgespräch](./Bewerbungsgespräch.md)
+- [Bewerbungsgespräch](Bewerbungsgespräch.md)
 
 Im Grunde genommen keine schwierige Aufgabe, wenn mindestens eine Person aus der Leitungsebene anwesend ist. Spontan schauen immer Interessenten vorbei.
 Es ist aber wichtig zu beachten, dass eine große Welle an Praktikanten und Auszubildenden schwierig zu leiten ist. In einen solchem Fall wird eine Bewerbungspause in Kraft gesetzt.
@@ -38,7 +38,7 @@ Zuständigkeitsbereich: **Leitungsebene**
 
 Aufgaben:
 
-- Überprüfung von [Verstößen](./Verstöße.md) seitens der Mitarbeiter
+- Überprüfung von [Verstößen](Verstöße.md) seitens der Mitarbeiter
 - Verwarnungen ausstellen
 - Kündigung nach drei Warnungen eines Mitarbeiters
 
