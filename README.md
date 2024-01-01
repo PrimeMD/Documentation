@@ -7,3 +7,5 @@ Hier werden alle Dokumente des Medical Departments auf primerp erfasst.
 - [ ] Beförderungen (Kriterien für Beförderungen)
 - [ ] Schulungen
 - [ ] Richtlinien für Mitarbeiter (z.B. Funkregeln)
+- [ ] Tätigkeiten von verschiedenen Bereichen (z.B. Leitstelle)
+- [ ] Lehrgang MedicNet
