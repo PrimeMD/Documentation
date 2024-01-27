@@ -47,9 +47,9 @@ Wenn beispielsweise `Sanitäter Grundausbildung` angekreuzt wurde, bedeutet das,
 - Falls keiner sonst da ist, dann den RTW (keinen PKW) besetzen
 - Hinweis, dass bei Kopfschussverletzungen teilweise die Verletzung als "Es ist nichts zu erkennen" dabei ist. D.h. beim Wiederbeleben stehen die tatsächlich wieder auf, anstatt vom "Komaarzt" abgeholt zu werden
 - Führung durchs Haus
-- Behandlungsräume
-- Cafeteria
-- Umkleiden
-- Garagen
-- MRT
-- ... (kannst ja auch nur mal den Rest erwähnen, musst nicht überall hinlaufen mit den Bewerbern)
+  - Behandlungsräume
+  - Cafeteria
+  - Umkleiden
+  - Garagen
+  - MRT
+  - ... (kannst ja auch nur mal den Rest erwähnen, musst nicht überall hinlaufen mit den Bewerbern)
