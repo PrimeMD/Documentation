@@ -20,7 +20,7 @@ Wenn die Leistelle in Ausnahmesituationen nicht besetzt ist, ist das Personal au
 - NKAnbulan
 
 ## Stufe 2
-- Maximale Anzahl: Hälfte an Fahrzeugen
+- Maximale Anzahl: Hälfte an ausgeparkten Fahrzeugen
 - Minimale Besetzung: 2 bei mehr als 4 aktiven Mitarbeitern im Außendienst
 
 ### Befugte Ränge
