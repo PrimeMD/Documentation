@@ -15,7 +15,7 @@ Sonderfahrzeuge wie Helikopter benötigen eine besondere Einweisung und Freigabe
 Diese Fahrzeuge sind pfleglich zu behandeln, um die Einsatzbereitschaft aufrecht zu erhalten.
 Kleinreparaturen sind unverzüglich nach Einsatzende vorzunehmen.
 
-Bei größeren Schäden können die Dienstfahrzeuge in Osaka repariert werden.
+Bei größeren Schäden können die Dienstfahrzeuge bei Osaka repariert werden.
 
 ## Tuning & Lackierung
 
