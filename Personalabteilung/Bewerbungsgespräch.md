@@ -31,10 +31,13 @@ Wenn beispielsweise `Sanitäter Grundausbildung` angekreuzt wurde, bedeutet das,
 ## Einweisung
 
 - Discord-Einweisung
-  - Abmeldungen bei Abwesenheit von mehr als einer Woche
-  - Stempelsystem (auch als Mitarbeiter einstellen)
-    - Beim ersten mal vergessen gibt's ne mündliche Warnung, danach per Warnsystem
   - DN vergeben (zwischen 12 und 99)
+  - Abmeldungen bei Abwesenheit von mehr als einer Woche
+  - als Mitarbeiter einstellen (`/mitarbeiter`)
+- Stempelsysteme
+  - Unterschied zwischen der Discord- und der Gebäudestempeluhr erklären
+  - Beim ersten mal vergessen gibt's ne mündliche Warnung, danach per Warnsystem
+
 - Kleidungsladen
 - basic Funkdisziplin
 - Notrufe auf dem Handy deaktivieren (für weniger Stress)
