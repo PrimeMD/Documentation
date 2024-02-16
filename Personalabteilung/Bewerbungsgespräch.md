@@ -30,11 +30,15 @@ Wenn beispielsweise `Sanitäter Grundausbildung` angekreuzt wurde, bedeutet das,
 
 ## Einweisung
 
-- Discord-Einweisung
-  - DN vergeben (zwischen 12 und 99)
-  - Abmeldungen bei Abwesenheit von mehr als einer Woche
+- Discord
   - als Mitarbeiter einstellen (`/mitarbeiter`)
+  - DN vergeben (zwischen 12 und 99)
+  - Channels erklären
+    - Abmeldungen bei Abwesenheit von mehr als einer Woche
+    - 
+
 - Stempelsysteme
+  - Wo man sich einstempeln kann
   - Unterschied zwischen der Discord- und der Gebäudestempeluhr erklären
   - Beim ersten mal vergessen gibt's ne mündliche Warnung, danach per Warnsystem
 
@@ -52,6 +56,9 @@ Wenn beispielsweise `Sanitäter Grundausbildung` angekreuzt wurde, bedeutet das,
   - Tastaturbelegung (Funk + Tablet)
   - Behandlungen mit F6
     - Hinweis, dass wir erst RP machen, dann die eigentliche Behandlung
+- Tablet erklären
+
+  
 - Führung durchs Haus
   - Behandlungsräume
   - Cafeteria
