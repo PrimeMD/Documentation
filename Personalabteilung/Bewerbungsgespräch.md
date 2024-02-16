@@ -38,21 +38,24 @@ Wenn beispielsweise `Sanitäter Grundausbildung` angekreuzt wurde, bedeutet das,
   - Unterschied zwischen der Discord- und der Gebäudestempeluhr erklären
   - Beim ersten mal vergessen gibt's ne mündliche Warnung, danach per Warnsystem
 
+- Notrufe auf dem Handy deaktivieren (für weniger Stress)
 - Kleidungsladen
 - basic Funkdisziplin
-- Notrufe auf dem Handy deaktivieren (für weniger Stress)
 - einfache Schemata (AAA; XABCDE)
-- Hinweis, dass wir erst RP machen, dann die eigentliche Behandlung
-- zusätzliche Tools wie RP-Soundboard für besseres RP
-- zeigen, wie man Behandlungen durchführt
+
 - Fahrzeuge
-- Praktikanten nur in Begleitung von Höherrängigen
-- Falls keiner sonst da ist, dann den RTW (keinen PKW) besetzen
-- Hinweis, dass bei Kopfschussverletzungen teilweise die Verletzung als "Es ist nichts zu erkennen" dabei ist. D.h. beim Wiederbeleben stehen die tatsächlich wieder auf, anstatt vom "Komaarzt" abgeholt zu werden
+  - Praktikanten nur in Begleitung von Höherrängigen
+  - Falls keiner sonst da ist, dann den RTW (keinen PKW) besetzen
+- OOC-Sachen
+  - Hinweis für nicht erkennbare Kopfschussverletzungen
+  - Einrichtung Soundboard
+  - Tastaturbelegung (Funk + Tablet)
+  - Behandlungen mit F6
+    - Hinweis, dass wir erst RP machen, dann die eigentliche Behandlung
 - Führung durchs Haus
   - Behandlungsräume
   - Cafeteria
   - Umkleiden
   - Garagen
   - MRT
-  - ... (kannst ja auch nur mal den Rest erwähnen, musst nicht überall hinlaufen mit den Bewerbern)
+  - ... (muss ja nicht alles gezeigt werden, erwähnen reicht)
